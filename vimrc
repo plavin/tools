@@ -2,12 +2,13 @@
 :set shiftwidth=4
 :set expandtab
 
+" Remap kj to <Esc> in both insert and command mode
 :imap kj <Esc>
 :cnoremap kj <c-c>
 
 :set autoindent
-:set smartindent 
-:set cindent 
+:set smartindent
+:set cindent
 
 :set ignorecase
 :set smartcase
@@ -20,8 +21,8 @@ if has("autocmd")
 
 endif
 
-""" Vim-Plug Commands 
-" Grab plug.vim and place it in .vim/autoload 
+""" Vim-Plug Commands
+" Grab plug.vim and place it in .vim/autoload
 " if it does not exist
 
 if empty(glob('~/.vim/autoload/plug.vim'))
@@ -39,6 +40,7 @@ Plug 'vim-scripts/Wombat'
 "Plug 'valloric/youcompleteme', { 'do': 'python3 install.py --clang-compiler' }
 Plug 'tpope/vim-surround'
 Plug 'craigemery/vim-autotag'
+Plug 'ntpeters/vim-better-whitespace'
 
 " Vim-Plug end
 call plug#end()
