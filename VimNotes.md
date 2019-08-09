@@ -8,7 +8,7 @@ This file contains vim commands that you may have forgotten, grouped by the plug
 
 ## [vim-surround](https://vimawesome.com/plugin/vim-surround-holy-ground)
 
-`cs<old-surround><new-surround>`: Replace <old-surround> with <new-surround> quotes
+`cs<old-surround><new-surround>` : Replace <old-surround> with <new-surround> quotes
  - E.g. `cs'"` : replace single quotes with double quotes
 
 `ds<surround>` : Delete <surround>
