@@ -2,11 +2,11 @@
 
 This file contains vim commands that you may have forgotten, grouped by the plugin they came from. More plugins can be found on [VimAwesome](vimawesome.com).
 
-### better-whitepsace
+### [better-whitepsace](https://vimawesome.com/plugin/better-whitespace)
 
 `:StripWhitespace` : Self trailing whitespace
 
-### vim-surround
+### [vim-surround](https://vimawesome.com/plugin/vim-surround-holy-ground)
 
 `cs<old-surround><new-surround>`: Replace <old-surround> with <new-surround> quotes
  - E.g. `cs'"` : replace single quotes with double quotes
