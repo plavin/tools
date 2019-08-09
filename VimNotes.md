@@ -1,4 +1,4 @@
-#Vim Notes
+# Vim Notes
 
 This file contains vim commands that you may have forgotten, grouped by the plugin they came from. More plugins can be found on [VimAwesome](vimawesome.com).
 
