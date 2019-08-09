@@ -14,7 +14,7 @@ This file contains vim commands that you may have forgotten, grouped by the plug
 `ds<surround>` : Delete \<surround\>
  - E.g. `ds'` : delete single quotes
 
-`ys<selection><surround>` : Insert \<surround\> around \<selection\>. 
+`ys<visual-mode-selection><surround>` : Insert \<surround\> around \<selection\>. 
  - E.g. `ysiw]` : Insert braces around "inner word". 
 
 In cases where the opening and closing symbols are diffent (e.g. with brackets), use the opening symbol to add whitespace along with the new surround, and use the closing symbol otherwise. 
