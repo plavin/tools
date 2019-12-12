@@ -41,6 +41,7 @@ Plug 'vim-scripts/Wombat'
 Plug 'tpope/vim-surround'
 Plug 'craigemery/vim-autotag'
 Plug 'ntpeters/vim-better-whitespace'
+Plug 'farmergreg/vim-lastplace'
 
 " Vim-Plug end
 call plug#end()
