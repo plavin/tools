@@ -31,11 +31,11 @@ if empty(glob('~/.vim/autoload/plug.vim'))
   autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
 endif
 
-" Vimwiki requires the following 3 options
+" Vimwiki requires the following 4 options
 :set nocompatible
 :filetype plugin on
 :syntax on
-:let g:vimwiki_list = [{'path': '~/tools/wiki/src/', 'path_html': '~/tools/wiki/html/'}]
+:let g:vimwiki_list = [{'path': '~/tools/wiki/src/', 'path_html': '~/tools/docs/'}]
 
 
 " Vim-Plug init

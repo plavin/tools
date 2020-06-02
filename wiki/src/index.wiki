@@ -1,7 +1,9 @@
-= My knowledge base =
+= lavin.cc =
     * [[Tasks]] -- things to be done _yesterday_!!!
     * [[Project Gutenberg]] -- good books are power.
-    * Scratchpad -- various temporary stuff.
+    * [[Scratchpad]] -- various temporary stuff.
+ 
+ {{https://cdn.dribbble.com/users/264162/screenshots/2891443/secretarybird-dribbble.png}}
 
 TODO:
   - [ ] Check this box
