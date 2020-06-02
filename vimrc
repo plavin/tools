@@ -31,6 +31,13 @@ if empty(glob('~/.vim/autoload/plug.vim'))
   autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
 endif
 
+" Vimwiki requires the following 3 options
+:set nocompatible
+:filetype plugin on
+:syntax on
+:let g:vimwiki_list = [{'path': '~/tools/wiki/src/', 'path_html': '~/tools/wiki/html/'}]
+
+
 " Vim-Plug init
 call plug#begin('~/.vim/plugged')
 
@@ -41,6 +48,8 @@ Plug 'vim-scripts/Wombat'
 Plug 'tpope/vim-surround'
 Plug 'craigemery/vim-autotag'
 Plug 'ntpeters/vim-better-whitespace'
+Plug 'sheerun/vim-polyglot'
+Plug 'vimwiki/vimwiki'
 
 " Vim-Plug end
 call plug#end()
