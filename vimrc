@@ -50,6 +50,7 @@ Plug 'craigemery/vim-autotag'
 Plug 'ntpeters/vim-better-whitespace'
 Plug 'sheerun/vim-polyglot'
 Plug 'vimwiki/vimwiki'
+Plug 'farmergreg/vim-lastplace'
 
 " Vim-Plug end
 call plug#end()
