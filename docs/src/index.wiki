@@ -3,7 +3,7 @@
     * [[Project Gutenberg]] -- good books are power.
     * [[Scratchpad]] -- various temporary stuff.
 
-{{https://raw.githubusercontent.com/plavin/tools/master/docs/resources/sec_bird.png}}
+{{https://raw.githubusercontent.com/plavin/tools/master/docs/resources/sec_bird.png|secretary bird|style="width:150px;heigh:150px;"}}
 
 TODO:
   - [ ] Check this box
