@@ -1,5 +1,7 @@
 # Patrick's Tools Repo
 
+# WARNING: This repo is no longer used. All of the tools in this repo can be found in the repo plavin.github.io/tools
+
 This repository contains my dotfiles and other helpful documents. 
 
 ## Getting started on a new machine
