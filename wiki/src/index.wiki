@@ -2,8 +2,8 @@
     * [[Tasks]] -- things to be done _yesterday_!!!
     * [[Project Gutenberg]] -- good books are power.
     * [[Scratchpad]] -- various temporary stuff.
- 
- {{https://github.com/plavin/tools/blob/master/resources/sec_bird.png}}
+
+{{https://raw.githubusercontent.com/plavin/tools/master/resources/sec_bird.png}}
 
 TODO:
   - [ ] Check this box
