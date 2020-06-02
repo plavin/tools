@@ -35,7 +35,7 @@ endif
 :set nocompatible
 :filetype plugin on
 :syntax on
-:let g:vimwiki_list = [{'path': '~/tools/wiki/src/', 'path_html': '~/tools/docs/'}]
+:let g:vimwiki_list = [{'path': '~/tools/docs/src/', 'path_html': '~/tools/docs/'}]
 
 
 " Vim-Plug init
